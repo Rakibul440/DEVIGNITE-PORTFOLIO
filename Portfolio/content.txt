@@ -1,0 +1,22 @@
+---------------BODY--------------
+
+padding : 100px (both side)
+backgroud : #C7EEFF
+
+-------------Navbar--------------
+height : 100px
+
+space-between
+bottom border : black
+
+------------ Nav Items ----------
+
+gap : 15px
+
+------------ Hero Section --------------
+
+WELCOME TO MY WORLD
+
+heading =  Hi,I'm Rakibul Islam Mondal
+
+text = I'm a Web Developer & Freelancer
